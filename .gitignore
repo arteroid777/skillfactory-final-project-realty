@@ -1,0 +1,7 @@
+data.csv
+*.zip
+*.joblib
+*.pdf
+brief*.txt
+__pycache__/
+.ipynb_checkpoints/
